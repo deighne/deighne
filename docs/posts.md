@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Posts
-permalink: /posts/
-menu: main
+title: Posting
+permalink: /posting/
 ---
 
 Threads: [@theperfectfruitmadrid](https://www.threads.net/@theperfectfruitmadrid)

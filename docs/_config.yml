@@ -45,13 +45,15 @@ plugins:
 permalink: /:categories/:year/:month/:day/:title:output_ext
 layouts_dir: /_includes
 header_pages:
-  - about.md
+  - bio.md
   - contact.md
   - design.md
   - musings.md
   - photos.md
-  - posts.md
+  - posting.md
   - work.md
+
+excerpt_separator: <!--more-->
 
 # Exclude from processing.
 # The following items will not be processed, by default.

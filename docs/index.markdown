@@ -22,7 +22,9 @@ I have some weird design work for sale, as well as prints for a little bit of my
 ## [Musings](/musings)
 A place for some longer-form writing, when I get up to it.
 
-## [Posts](/posts)
+## [Posting](/posting)
+I'm trying to post less, but sometimes you have to. Here's where that's happening.
+
 Threads: [@theperfectfruitmadrid](https://www.threads.net/@theperfectfruitmadrid)
 
 Instagram: [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/) (private)

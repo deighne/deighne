@@ -9,6 +9,7 @@ layout: base
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: date_format }}
+        | <a href="/{{page.categories}}">{{page.categories}}</a>
       </time>
       {%- if page.modified_date -%}
         ~ 
