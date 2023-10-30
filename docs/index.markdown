@@ -4,6 +4,7 @@
 
 layout: home
 title: Home
+list_title: The Latest Musings ↓
 ---
 Hi I'm Deighne [Dane Dickerson for legal purposes].
 
@@ -20,7 +21,7 @@ Most of my photography I'm proud of is on Instagram [@theperfectfruitmadrid](htt
 I have some weird design work for sale, as well as prints for a little bit of my photography up on [Redbubble](https://www.redbubble.com/people/danecd/shop). If you want a print of something not on Redbubble contact me for pricing.
 
 ## [Musings](/musings)
-I may write some long-form stuff here once in a while?
+A place for some longer-form writing, when I get up to it.
 
 ## [Posts](/posts)
 Threads: [@theperfectfruitmadrid](https://www.threads.net/@theperfectfruitmadrid)
