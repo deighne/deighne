@@ -2,6 +2,7 @@
 layout: page
 title: Posts
 permalink: /posts/
+menu: main
 ---
 
 Threads: [@theperfectfruitmadrid](https://www.threads.net/@theperfectfruitmadrid)

@@ -26,17 +26,31 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: deighne
 github_username:  deighne
+instagram_username: theperfectfruitmadrid
 
 # Build settings
 # default theme
 # theme: minima
 # Active theme
 theme: minima
+minima:
+  date_format: "%b %-d %Y"
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 permalink: /:categories/:year/:month/:day/:title:output_ext
 layouts_dir: /_includes
-
+header_pages:
+  - about.md
+  - contact.md
+  - design.md
+  - musings.md
+  - photos.md
+  - posts.md
+  - work.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

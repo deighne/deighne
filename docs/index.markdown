@@ -3,13 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
-list_title: The Latest Musings ↓
+list_title: Latest Musings ↓
+custom_h1: Hi, I'm Dane.
+title: DEIGHNE.BLOG | Work, Writing, Design, Nonsense, Other
 ---
-Hi I'm Deighne [Dane Dickerson for legal purposes].
-
 ## [Bio](/bio)
-I grew up in Salt Lake and moved to Central Arkansas in 2022. I spend ample time being an ebike dad, marketing guy, annoying lefty internet guy, and camera guy. This site's a portal for most of the things I get up to on the internet.
+I grew up in Salt Lake and moved to Central Arkansas in 2022. I spend ample time being an ebike dad, marketing guy, annoying lefty internet guy, and camera guy. This site's a portal for most of the things I get up to on the internet, as Dane Dickerson, or Danecd, or Deighne, or a few other names.
 
 ## [Work](/work)
 Right now I'm working as the Digital Marketing lead for [Human Element](https://www.human-element.com/) in Ann Arbor, Michigan. Email me at ddickerson@human-element.com for ecommerce marketing work, speaking engagements, and rants about trademark law. One time I made a weekly update video with an ML-generated Guy Fieri, and it was not good. I've worked in-house, agency, venture capital, startups, and franchise marketing over the last 10 years; here's my [intermittently updated LinkedIn](https://www.linkedin.com/in/danecd/).

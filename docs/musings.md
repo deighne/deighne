@@ -2,6 +2,7 @@
 layout: page
 title: Musings
 permalink: /musings/
+menu: main
 ---
 
 Here's a place for some longer-form writing I might get up to.

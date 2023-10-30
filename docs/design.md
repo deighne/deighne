@@ -2,6 +2,7 @@
 layout: page
 title: Design
 permalink: /design/
+menu: main
 ---
 
 ## [Design](/design)
