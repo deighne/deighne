@@ -31,7 +31,7 @@ github_username:  deighne
 # default theme
 # theme: minima
 # Active theme
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
