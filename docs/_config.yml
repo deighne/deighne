@@ -28,7 +28,10 @@ twitter_username: deighne
 github_username:  deighne
 
 # Build settings
-theme: minima
+# default theme
+# theme: minima
+# Active theme
+theme: minimal
 plugins:
   - jekyll-feed
 
