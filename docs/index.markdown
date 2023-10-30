@@ -16,6 +16,9 @@ Right now I'm working as the Digital Marketing lead for [Human Element](https://
 ## [Photos](/photos)
 Most of my photography I'm proud of is on Instagram [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/), but less compressed copies can be found in this [Google Photos album](https://photos.app.goo.gl/P7XeGo5MPLvRJdSA8). I miss when Flickr was cool. I will take photos in exchange for not much money.
 
+## [Design](/design)
+I have some weird design work for sale, as well as prints for a little bit of my photography up on [Redbubble](https://www.redbubble.com/people/danecd/shop). If you want a print of something not on Redbubble contact me for pricing.
+
 ## [Musings](/musings)
 I may write some long-form stuff here once in a while?
 
