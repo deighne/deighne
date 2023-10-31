@@ -4,7 +4,7 @@ title: Musings
 permalink: /musings/
 ---
 
-Here's a place for some longer-form writing I might get up to.
+A place for longer-than-a-post writing.
 
 <ul>
   {% for post in site.posts %}
