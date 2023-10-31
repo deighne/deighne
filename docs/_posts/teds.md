@@ -1,4 +1,9 @@
-A definitive list of Teds, ranked.
+---
+layout: post
+title: "A definitive list of Teds, ranked."
+date: 2023-10-31 11:02:30 -0000
+categories: Musings
+---
 
 Ted (Ted)
 Ted Danson
