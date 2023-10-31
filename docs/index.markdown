@@ -8,7 +8,7 @@ custom_h1: Hi, I'm Dane.
 title: DEIGHNE.BLOG | Work, Writing, Design, Nonsense, Other
 ---
 ## [Bio](/bio)
-I grew up in Salt Lake and moved to Central Arkansas in 2022. I spend ample time being an ebike dad, marketing guy, annoying lefty internet guy, and camera guy. This site's a portal for most of the things I get up to on the internet, as Dane Dickerson, or Danecd, or Deighne, or a few other names.
+I grew up in Salt Lake and moved to Central Arkansas in 2022. I spend ample time being an ebike dad, marketing guy, annoying lefty, and camera person.
 
 ## [Work](/work)
 Right now I'm working as the Digital Marketing lead for [Human Element](https://www.human-element.com/) in Ann Arbor, Michigan. Email me at [ddickerson@human-element.com](mailto:ddickerson@human-element.com) for ecommerce marketing work, speaking engagements, and rants about trademark law. One time I made a weekly update video with an ML-generated Guy Fieri, and it was not good. I've worked in-house, agency, venture capital, startups, and franchise marketing over the last 10 years; here's my [intermittently updated LinkedIn](https://www.linkedin.com/in/danecd/).
@@ -20,10 +20,10 @@ Most of my photography I'm proud of is on Instagram [@theperfectfruitmadrid](htt
 I have some weird design work for sale, as well as prints for a little bit of my photography up on [Redbubble](https://www.redbubble.com/people/danecd/shop). If you want a print of something not on Redbubble contact me for pricing.
 
 ## [Musings](/musings)
-A place for some longer-form writing, when I get up to it.
+Always authentic, sporically meaningful writing.
 
 ## [Posting](/posting)
-I'm trying to post less, but sometimes you have to. Here's where that's happening.
+I'm trying to post less, but sometimes one must. Here's where that's happening.
 
 Threads: [@theperfectfruitmadrid](https://www.threads.net/@theperfectfruitmadrid)
 
