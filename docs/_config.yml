@@ -51,7 +51,6 @@ header_pages:
   - design.md
   - musings.md
   - photos.md
-  - posting.md
   - work.md
 
 excerpt_separator: <!--more-->
