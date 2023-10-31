@@ -2,6 +2,7 @@
 layout: page
 title: Design
 permalink: /design/
+description: Weird art, available for purchase and pleasure.
 ---
 I have some weird design work for sale, as well as prints for a little bit of my photography up on [Redbubble](https://www.redbubble.com/people/danecd/shop). If you want a print of something of mine not on Redbubble contact me for pricing. 
 <div class="gallery" align="center">

@@ -2,6 +2,7 @@
 layout: page
 title: Posting
 permalink: /posting/
+description: Where to find Dane's posts.
 ---
 
 Threads: [@theperfectfruitmadrid](https://www.threads.net/@theperfectfruitmadrid)

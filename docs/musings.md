@@ -2,6 +2,7 @@
 layout: page
 title: Musings
 permalink: /musings/
+description: Like posting, but with editing and more words. No cohesion.
 ---
 
 A place for longer-than-a-post writing.
