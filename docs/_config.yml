@@ -44,6 +44,7 @@ plugins:
 
 permalink: /:categories/:year/:month/:day/:title:output_ext
 layouts_dir: /_includes
+
 header_pages:
   - bio.md
   - contact.md
