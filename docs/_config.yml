@@ -47,12 +47,12 @@ layouts_dir: /_includes
 
 header_pages:
   - bio.md
-  - contact.md
+  - work.md
+  - photos.md
   - design.md
   - musings.md
-  - photos.md
-  - work.md
   - posting.md
+  - contact.md
 
 excerpt_separator: <!--more-->
 
