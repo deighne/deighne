@@ -8,9 +8,13 @@ description: Like posting, but with editing and more words. No cohesion.
 A place for longer-than-a-post writing.
 
 <ul>
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
   {% for post in site.posts %}
-    <li>
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3><p>{{ post.excerpt }}</p>
-    </li>
+  <li>
+    <h3><a href="{{ post.url }}">
+      {{ post.title | escape }}
+      | {{post.date | date: date_format}}
+    </a></h3><p>{{ post.excerpt }}</p>
+  </li>
   {% endfor %}
 </ul>
