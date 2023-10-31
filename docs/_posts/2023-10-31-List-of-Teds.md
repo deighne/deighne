@@ -25,15 +25,15 @@ The mediocre musician to reactionary conservative pipeline is real, it's dangero
 
 ### 9. *(Tie)* Ted Kaczynski
 ![Ted Kaczynski mugshot](/assets/images/Ted_Kaczynski_2.jpeg)\
-The second murderer to make this list, Ted Kaczynski's ranks higher than Ted Bundy by virtue of putting in the work. Firmly a bad guy, Kaczynski served as inspiration for many a Reagan-era eco-terrorism thriller. One might argue that because his identity was hidden while his crimes were committed he doesn't belong on this list, but I'd say the Big Ted Energy is undeniable.
+The second murderer to make this list, Ted Kaczynski's ranks higher than Ted Bundy by virtue of putting in the work to not get caught instead of oafing around as a big dumb white guy. Firmly in the "bad guy" camp, Kaczynski served as inspiration for many a Reagan-era eco-terrorism thriller. One might argue that because his identity remained hidden while his crimes were committed he doesn't belong on this list, but I'd say the Big Ted Energy is undeniable.
 
 ### 7. Ted Mosby (How I Met Your Mother)
 ![Ted Mosby from How I Met Your Mother](/assets/images/tedmosby.jpg)\
-Many words have been spilled about why [Ted Mosby is the worst](https://www.buzzfeed.com/kellymartinez/we-need-to-talk-about-how-much-ted-mosby-sucks-on-how-i-met). On this list, however, that only gets you to a 7. Ted Mosby is an incel in the How I Met Your Mother reboot that would've been greenlit in 2019 had the finale not tanked so hard. He's an objectively bad storyteller, a self-obsessed chastity pervert, and he's a New York City architect in a sitcom. Bad Ted!
+Many words have been spilled about why [Ted Mosby is the worst](https://www.buzzfeed.com/kellymartinez/we-need-to-talk-about-how-much-ted-mosby-sucks-on-how-i-met). On this list, that only gets you to a 7. In the hypothetical How I Met Your Mother 2019 reboot, Ted Mosby is an incel with a heart of gold; now I'm glad the finale was so bad that would never have happened. He's an objectively bad storyteller, a self-obsessed chastity pervert, and a New York City architect in a sitcom. Bad Ted!
 
 ### 6. Ted Lasso (Ted Lasso)
 ![Ted Lasso from Ted Lasso](/assets/images/tedlasso.jpg)\
-Headlining the premiere program for Disney Adults, Jason Sudeikis as Ted Lasso, is lovable, modest, and extremely divorced. The "Brad Leone" of sports fiction, perhaps. He's worth giving Apple 6 bucks once a year to catch up on the latest season. "I do love a locker room. It smells like potential" is an all-time quote though it plays better in a different context.
+Headlining the premiere program for Disney Adults, Jason Sudeikis as Ted Lasso, is lovable, modest, and extremely divorced. The "Brad Leone" of sports fiction, perhaps. He's worth giving Apple 6 bucks once a year to catch up on the latest season. *"I do love a locker room. It smells like potential"* is an all-time quote though it plays better in a different context.
 
 ### 5. Ted Crisp (Better Off Ted)
 ![Ted Crisp from Better Off Ted](/assets/images/tedcrisp.jpg)\
