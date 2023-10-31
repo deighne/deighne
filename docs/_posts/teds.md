@@ -5,6 +5,7 @@ Ted Danson
 Ted (Better Off Ted)
 Ted Kennedy
 Ted Turner
+Ted (How I Met Your Mother)
 Ted Kaczynski
 Ted Lasso
 Ted Nugent
