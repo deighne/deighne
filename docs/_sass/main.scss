@@ -1,3 +1,25 @@
-/*h3 {
+h1.page-heading {
   font-family: "Agbalumo";
-}*/
+  font-size: 64px;
+  text-align: center;
+}
+h1.post-title {
+  font-family: "Agbalumo";
+  font-size: 64px;
+}
+a.site-title{
+  font-family: "Poppins";
+}
+div.trigger{
+  font-family: "Poppins";
+  font-weight: 500;
+}
+h2 {
+  font-family: "Poppins";
+}
+div.wrapper {
+  max-width: calc(800px - (30px * 2));
+}
+a.post-link {
+  font-style: italic;
+}
