@@ -23,7 +23,7 @@ email: deighne@deighne.blog
 description: >- # this means to ignore newlines until "baseurl:"
   Deighne.blog - Marketing, artwork, musings, posts, contact info.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://deighne.blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: deighne
 github_username:  deighne
 instagram_username: theperfectfruitmadrid
