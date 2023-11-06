@@ -14,7 +14,7 @@ I grew up in Salt Lake and moved to Central Arkansas in 2022. I spend my time be
 Right now I'm working as the Digital Marketing lead for [Human Element](https://www.human-element.com/) in Ann Arbor, Michigan. Email me at [ddickerson@human-element.com](mailto:ddickerson@human-element.com) for ecommerce marketing work, speaking engagements, and rants about trademark law. One time I made a weekly update video with an ML-generated Guy Fieri, and it was not good. I've worked in-house, agency, venture capital, startups, and franchise marketing over the last 10 years; here's my [intermittently updated LinkedIn](https://www.linkedin.com/in/danecd).
 
 ## [Photos](/photos/)
-Most of my photography I'm proud of is on Instagram [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/), but less compressed copies can be found in this [Google Photos album](https://photos.app.goo.gl/P7XeGo5MPLvRJdSA8). I miss when Flickr was cool. I will take photos in exchange for not much money.
+Most of my photography I'm proud of is on Instagram [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/) and in higher quality on [Google Photos](https://photos.app.goo.gl/P7XeGo5MPLvRJdSA8). I miss when Flickr was cool. I will take photos in exchange for not much money.
 
 ## [Design](/design/)
 I have some weird design work for sale, as well as prints for a little bit of my photography up on [Redbubble](https://www.redbubble.com/people/danecd/shop). If you want a print of something not on Redbubble contact me for pricing.

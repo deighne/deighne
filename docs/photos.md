@@ -5,7 +5,7 @@ permalink: /photos/
 description: Pictures pictures pictures, with varying degrees of quality.
 ---
 
-Most of my photography I'm proud of is on Instagram [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/), but less compressed copies can be found in this [Google Photos album](https://photos.app.goo.gl/P7XeGo5MPLvRJdSA8), which is also embedded below if things are working 🤞. I miss when Flickr was cool. I will take photos in exchange for not much money.
+Most of my photography I'm proud of is on Instagram [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/) and in higher quality on [Google Photos](https://photos.app.goo.gl/P7XeGo5MPLvRJdSA8), which is also embedded below. I miss when Flickr was cool. I will take photos in exchange for not much money.
 
 <!-- google photos embed code -->
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
