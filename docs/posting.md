@@ -4,8 +4,8 @@ title: Posting
 permalink: /posting/
 description: Where to find Dane's posts.
 ---
-Here's the places you can find my posts. If you want something longer, there's [Musings](/musings/).
+Places you can find my posts.
 
-Threads: [@theperfectfruitmadrid](https://www.threads.net/@theperfectfruitmadrid)
+Threads: [@theperfectfruitmadrid](https://www.threads.net/@theperfectfruitmadrid): "The Discourse"
 
-Instagram: [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/)
+Instagram: [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/): "The Vibes"

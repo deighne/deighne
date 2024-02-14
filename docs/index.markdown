@@ -8,16 +8,16 @@ custom_h1: Hi, I'm Dane.
 title: DEIGHNE.BLOG | Work, Writing, Design, Nonsense, Other
 ---
 ## [Bio](/bio/)
-I grew up in Salt Lake and moved to Central Arkansas in 2022. I spend my time being an ebike dad, marketing guy, lefty, and camera person.
-
-## [Work](/work/)
-Right now I'm working as the Digital Marketing lead for [Human Element](https://www.human-element.com/) in Ann Arbor, Michigan. Email me at [ddickerson@human-element.com](mailto:ddickerson@human-element.com) for ecommerce marketing work, speaking engagements, and rants about trademark law. One time I made a weekly update video with an ML-generated Guy Fieri, and it was not good. I've worked in-house, agency, venture capital, startups, and franchise marketing over the last 10 years; here's my [intermittently updated LinkedIn](https://www.linkedin.com/in/danecd).
+I grew up in Salt Lake and moved to Central Arkansas in 2022. I mostly spend my time biking around, working in marketing, and taking pictures.
 
 ## [Photos](/photos/)
-Most of my photography I'm proud of is on Instagram [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/) and in higher quality on [Google Photos](https://photos.app.goo.gl/P7XeGo5MPLvRJdSA8). Will take photos in exchange for money.
+I specialize in performance and event photography: musicals, drag, and dance, to name a few, and am also available for promotional photos, headshots and editorial. My portfolio is [over here](/photos/). For rates and availability for an event or session [email me](mailto:deighne@deighne.blog). To see what I've been doing lately, visit my Instagram [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/).
+
+## [Marketing](/marketing/)
+I'm currently working as the Digital Marketing lead for [Human Element](https://www.human-element.com/) in Ann Arbor, Michigan. Email me at [ddickerson@human-element.com](mailto:ddickerson@human-element.com) for lead-gen and ecommerce marketing, speaking engagements, and rants about trademark law. I've worked in-house, agency, venture capital, startups, and franchise marketing over the last 10 years; here's my [intermittently updated LinkedIn](https://www.linkedin.com/in/danecd).
 
 ## [Design](/design/)
-I have some weird design work for sale, as well as prints for a little bit of my photography up on [Redbubble](https://www.redbubble.com/people/danecd/shop). If you want a print of something not on Redbubble contact me for pricing.
+A sampling of my photography and design work are available as prints and items on [Redbubble](https://www.redbubble.com/people/danecd/shop). If there's something you've seen of mine that you want a print of that isn't on Redbubble, [email me for pricing](mailto:deighne@deighne.blog).
 
 ## [Musings](/musings/)
 Always authentic, sporically meaningful writing. No schedule and no promises.
@@ -25,11 +25,10 @@ Always authentic, sporically meaningful writing. No schedule and no promises.
 ## [Posting](/posting/)
 Where I post:
 
-Threads: [@theperfectfruitmadrid](https://www.threads.net/@theperfectfruitmadrid)
+Threads: [@theperfectfruitmadrid](https://www.threads.net/@theperfectfruitmadrid): "The Discourse"
 
-Instagram: [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/)
+Instagram: [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/): "The Vibes"
 
 ## [Contact](/contact/)
-Marketing-related: [ddickerson@human-element.com](mailto:ddickerson@human-element.com)
-
-Everything else: [deighne@deighne.blog](mailto:deighne@deighne.blog)
+Digital-marketing-related: [ddickerson@human-element.com](mailto:ddickerson@human-element.com)
+Photos and Everything else: [deighne@deighne.blog](mailto:deighne@deighne.blog)

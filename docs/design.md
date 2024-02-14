@@ -4,7 +4,7 @@ title: Design
 permalink: /design/
 description: Weird art, available for purchase and pleasure.
 ---
-I have some weird design work for sale, as well as prints for a little bit of my photography up on [Redbubble](https://www.redbubble.com/people/danecd/shop). If you want a print of something of mine not on Redbubble contact me for pricing. 
+A sampling of my photography and design work are available as prints and items on [Redbubble](https://www.redbubble.com/people/danecd/shop). If there's something you've seen of mine that you want a print of that isn't on Redbubble, [email me for pricing](mailto:deighne@deighne.blog).
 <div class="gallery" align="center">
 <img src="/assets/images/scarecrow.jpg" alt="Hell yeah it's scarecrow time!" width="400"/>
 <img src="/assets/images/wire-mother-bkg.jpg" alt="Call her mother. Wire Mother."/>
