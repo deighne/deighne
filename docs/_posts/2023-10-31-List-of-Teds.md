@@ -49,7 +49,7 @@ What do we make of the person who kick-started the 24-hour news industry? That's
 
 ### 2. Ted (from the movie Ted)
 ![Ted from the 2012 movie Ted](/assets/images/Ted.png)\
-Mark Wahlberg was kind of cool for a bit, remember that? Leaning into the comedy classic of "thing for kids swears a bunch," the foul-mouthed Ted as the center of this movie became an icon for the kind of people who buy "adulting"-themed home decor and couplets about Rosé. I think we can all agree our worst roomates would have been better if they'd been just a little more like Ted. I guess he killed some people in the movies? I didn't remember that but it's on the [List of Deaths Fandom wiki](https://listofdeaths.fandom.com/wiki/Ted#Deaths). He earns the number two spot.
+Mark Wahlberg was kind of cool for a bit, remember that? Leaning into the comedy classic of "thing for kids swears a bunch," the foul-mouthed Ted as the center of this movie became an icon for the kind of people who buy "adulting"-themed home decor and couplets about Rosé. I think we can all agree our worst roomates would have been better if they'd been just a little more like Ted. I guess he killed some people in the movies? I didn't remember that but it's on the [List of Deaths Fandom wiki](https://listofdeaths.fandom.com/wiki/Ted_(Franchise)). He earns the number two spot.
 
 ### 1. Ted Danson
 ![Ted Danson in 1990](/assets/images/Ted_Danson.jpg)\
