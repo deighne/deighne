@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Work
-permalink: /work/
+title: Marketing
+permalink: /marketing/
 description: Things I get paid to do.
 ---
 

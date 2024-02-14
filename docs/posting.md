@@ -6,6 +6,5 @@ description: Where to find Dane's posts.
 ---
 Places you can find my posts.
 
-Threads: [@theperfectfruitmadrid](https://www.threads.net/@theperfectfruitmadrid): "The Discourse"
-
-Instagram: [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/): "The Vibes"
+Threads ("The Discourse"): [@theperfectfruitmadrid](https://www.threads.net/@theperfectfruitmadrid)
+Instagram ("The Vibes"): [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/)

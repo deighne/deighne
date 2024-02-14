@@ -25,9 +25,8 @@ Always authentic, sporically meaningful writing. No schedule and no promises.
 ## [Posting](/posting/)
 Where I post:
 
-Threads: [@theperfectfruitmadrid](https://www.threads.net/@theperfectfruitmadrid): "The Discourse"
-
-Instagram: [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/): "The Vibes"
+Threads ("The Discourse"): [@theperfectfruitmadrid](https://www.threads.net/@theperfectfruitmadrid)
+Instagram ("The Vibes"): [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/)
 
 ## [Contact](/contact/)
 Digital-marketing-related: [ddickerson@human-element.com](mailto:ddickerson@human-element.com)

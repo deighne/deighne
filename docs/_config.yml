@@ -47,9 +47,9 @@ layouts_dir: /_includes
 
 header_pages:
   - bio.md
-  - work.md
   - photos.md
   - design.md
+  - marketing.md
   - musings.md
   - posting.md
   - contact.md
