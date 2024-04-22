@@ -7,7 +7,7 @@ description: Central Arkansas Photographer - Events, Portraits, .
 
 I specialize in performance and [event photography](#Events): musicals, drag, and dance, to name a few. I also shoot [portraits](#Humans) (promotional, headshot, family, [not-humans](#Not-Humans)), [natural and unnatural places](#Places), and editorial.
 
-For rates and availability for an event or session [email me](mailto:deighne@deighne.blog).
+For rates and availability for events or a session [email me](mailto:deighne@deighne.blog).
 
 To see what I've been doing lately, visit my Instagram [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/).
 
