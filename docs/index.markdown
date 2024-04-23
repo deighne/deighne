@@ -14,7 +14,7 @@ header:
   overlay_image: /assets/images/headerimage.jpg
   actions:
     - label: "Booking Summer 2024"
-      url: "mailto:deighne@deighne.blog?subject=I'm interested in booking a photo session or event."
+      url: "mailto:dane@dane.photos?subject=I'm interested in booking a photo session or event."
   # show_overlay_excerpt: true
 excerpt: "Drag, Musicals, Events, Portraiture, Editorial, and More."
 ---
@@ -23,15 +23,15 @@ I specialize in performance and event photography: musicals, drag, and dance in 
 
 Based in Central Arkansas; will travel.
 
-For rates and availability for an event or session [email me](mailto:deighne@deighne.blog).
+For rates and availability for an event or session [email me](mailto:dane@dane.photos).
 
 Follow my instagram for what I've been doing lately: [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/).
 
 ## [Prints and Design](/design/)
-A sampling of my photography and design work are available as prints and items on [Redbubble](https://www.redbubble.com/people/danecd/shop). [Email me for pricing on prints on my other photography and artwork.](mailto:deighne@deighne.blog).
+A sampling of my photography and design work are available as prints and items on [Redbubble](https://www.redbubble.com/people/danecd/shop). [Email me for pricing on prints on my other photography and artwork.](mailto:dane@dane.photos).
 
 ## Live Audio
-I am available for live audio for concerts, musicals, corporate, and other events in Central Arkansas. Options are available for equipment rental, buildout, and installation. [Email if interested.](mailto:deighne@deighne.blog)
+I am available for live audio for concerts, musicals, corporate, and other events in Central Arkansas. Options are available for equipment rental, buildout, and installation. [Email if interested.](mailto:dane@dane.photos)
 
 ## [Other Work](/marketing/)
 I also serve as the Digital Marketing lead for [Human Element](https://www.human-element.com/) in Ann Arbor, Michigan. Email me at [ddickerson@human-element.com](mailto:ddickerson@human-element.com) for lead-gen and ecommerce marketing, speaking engagements, and rants about trademark law. I've worked in-house, agency, venture capital, startups, and franchise marketing over the last 10 years; here's my [LinkedIn](https://www.linkedin.com/in/danecd).
@@ -40,6 +40,6 @@ I also serve as the Digital Marketing lead for [Human Element](https://www.human
 Always authentic, sporically meaningful writing. [No schedule and no promises.](/musings/)
 
 ## [Contact](/contact/)
-Photos / Audio / Events: [deighne@deighne.blog](mailto:deighne@deighne.blog)
+Photos / Audio / Events: [dane@dane.photos](mailto:dane@dane.photos)
 
 Digital Marketing: [ddickerson@human-element.com](mailto:ddickerson@human-element.com)
