@@ -23,8 +23,6 @@ header:
   actions:
     - label: "Contact"
       url: "mailto:dane@dane.photos"
-  # show_overlay_excerpt: true
-# excerpt: "Drag, Musicals, Events, Portraiture, Editorial, and More."
 ---
 
 I grew up in Salt Lake and moved to Central Arkansas in 2022.

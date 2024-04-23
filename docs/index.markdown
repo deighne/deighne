@@ -16,7 +16,7 @@ header:
     - label: "Booking Summer 2024"
       url: "mailto:dane@dane.photos?subject=I'm interested in booking a photo session or event."
   # show_overlay_excerpt: true
-excerpt: "Drag, Musicals, Events, Portraiture, Editorial, and More."
+excerpt: "Drag, Musicals, Events, Portraits, Editorial, Audio"
 ---
 ## [Photography](/photos/)
 I specialize in performance and event photography: musicals, drag, and dance in particular. I also shoot portraits, promotional, headshots, family, not-humans, places (natural and unnatural), and editorial.

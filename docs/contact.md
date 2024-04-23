@@ -10,8 +10,6 @@ header:
   actions:
     - label: "Contact Me"
       url: "mailto:dane@dane.photos"
-  # show_overlay_excerpt: true
-# excerpt: "Drag, Musicals, Events, Portraiture, Editorial, and More."
 ---
 
 Digital-marketing-related: [ddickerson@human-element.com](mailto:ddickerson@human-element.com)

@@ -11,7 +11,7 @@ header:
     - label: "Booking Summer 2024"
       url: "mailto:dane@dane.photos?subject=I'm interested in booking a photo session or event."
   # show_overlay_excerpt: true
-excerpt: "Drag, Musicals, Events, Portraiture, Editorial, and More."
+excerpt: "Drag, Musicals, Events, Portraits, Editorial, Audio"
 # description: Dane Dickerson | Central Arkansas Photography | Events, Drag, Musicals, Portraits, and Art
 intro:
   - excerpt: "I specialize in performance and [event photography](#Events): musicals, drag, and dance, in particular. I also shoot [portraits](#Humans) (promotional, headshots, family, [not-humans](#Not-Humans)), [natural and unnatural places](#Places), and editorial."
