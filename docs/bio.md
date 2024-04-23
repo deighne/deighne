@@ -22,7 +22,7 @@ header:
   overlay_image: /assets/images/headerimage.jpg
   actions:
     - label: "Contact"
-      url: "mailto:deighne@deighne.blog"
+      url: "mailto:dane@dane.photos"
   # show_overlay_excerpt: true
 # excerpt: "Drag, Musicals, Events, Portraiture, Editorial, and More."
 ---

@@ -9,11 +9,11 @@ header:
   overlay_image: /assets/images/headerimage.jpg
   actions:
     - label: "Contact Me"
-      url: "mailto:deighne@deighne.blog"
+      url: "mailto:dane@dane.photos"
   # show_overlay_excerpt: true
 # excerpt: "Drag, Musicals, Events, Portraiture, Editorial, and More."
 ---
 
 Digital-marketing-related: [ddickerson@human-element.com](mailto:ddickerson@human-element.com)
 
-Photos and Everything else: [deighne@deighne.blog](mailto:deighne@deighne.blog)
+Photos and Everything else: [dane@dane.photos](mailto:dane@dane.photos)

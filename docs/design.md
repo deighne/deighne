@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/headerimage.jpg
   actions:
     - label: "I Want to Buy Something"
-      url: "mailto:deighne@deighne.blog?subject=Print or Merch Inquiry"
+      url: "mailto:dane@dane.photos?subject=Print or Merch Inquiry"
   # show_overlay_excerpt: true
 excerpt: "Weird art, available for purchase and pleasure."
 # examples
@@ -30,6 +30,6 @@ feature_row:
 ---
 ## Design / Prints / Merch
 
-A sampling of my photography and design work are available as prints and items on [Redbubble](https://www.redbubble.com/people/danecd/shop). If there's something you've seen of mine that you want a print of that isn't on Redbubble, [email me for pricing](mailto:deighne@deighne.blog).
+A sampling of my photography and design work are available as prints and items on [Redbubble](https://www.redbubble.com/people/danecd/shop). If there's something you've seen of mine that you want a print of that isn't on Redbubble, [email me for pricing](mailto:dane@dane.photos).
 
 {% include feature_row %}

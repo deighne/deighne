@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/headerimage.jpg
   actions:
     - label: "Booking Summer 2024"
-      url: "mailto:deighne@deighne.blog?subject=I'm interested in booking a photo session or event."
+      url: "mailto:dane@dane.photos?subject=I'm interested in booking a photo session or event."
   # show_overlay_excerpt: true
 excerpt: "Drag, Musicals, Events, Portraiture, Editorial, and More."
 # description: Dane Dickerson | Central Arkansas Photography | Events, Drag, Musicals, Portraits, and Art
@@ -191,6 +191,6 @@ I specialize in performance and [event photography](#events): [musicals](#theatr
 
 <!-- {% include feature_row id="feature_row12"%} -->
 
-For rates and availability for events or a session [email me](mailto:deighne@deighne.blog).
+For rates and availability for events or a session [email me](mailto:dane@dane.photos).
 
 To see what I've been doing lately, visit my Instagram [@theperfectfruitmadrid](https://www.instagram.com/theperfectfruitmadrid/).
