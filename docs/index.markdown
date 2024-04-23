@@ -41,4 +41,5 @@ Always authentic, sporically meaningful writing. [No schedule and no promises.](
 
 ## [Contact](/contact/)
 Photos / Audio / Events: [deighne@deighne.blog](mailto:deighne@deighne.blog)
+
 Digital Marketing: [ddickerson@human-element.com](mailto:ddickerson@human-element.com)
