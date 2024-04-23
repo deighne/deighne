@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Verge is Right About SEO. Sorry"
 date: 2023-11-03 00:00:00 -0000
 categories: Musings

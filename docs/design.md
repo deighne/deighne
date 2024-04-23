@@ -1,12 +1,26 @@
 ---
-layout: page
+layout: splash
 title: Design
 permalink: /design/
+class: wide
 description: Weird art, available for purchase and pleasure.
+# examples
+feature_row:
+  - image_path: /assets/images/scarecrow.jpg
+    url: https://www.redbubble.com/shop/ap/154234434 
+    btn_label: "Scarecrow Time"
+    # btn_class: "btn--inverse"
+  - image_path: /assets/images/portfolio/places-7.jpg
+    url: https://www.redbubble.com/shop/ap/154120648
+    btn_label: "Loser Nazis"
+    # btn_class: "btn--inverse"
+  - image_path: /assets/images/aphex-glass.jpg
+    url: https://www.redbubble.com/shop/ap/154234434
+    btn_label: "Aphex Glass"
+    # btn_class: "btn--inverse"
 ---
+## Design / Prints / Merch
+
 A sampling of my photography and design work are available as prints and items on [Redbubble](https://www.redbubble.com/people/danecd/shop). If there's something you've seen of mine that you want a print of that isn't on Redbubble, [email me for pricing](mailto:deighne@deighne.blog).
-<div class="gallery" align="center">
-	<a href="https://www.redbubble.com/shop/ap/154234434"><img src="/assets/images/scarecrow.jpg" alt="Hell yeah it's scarecrow time!" width="400"/></a>
-	<a href="https://www.redbubble.com/shop/ap/154087525"><img src="/assets/images/wire-mother-bkg.jpg" alt="Call her mother. Wire Mother."/></a>
-	<a href="https://www.redbubble.com/shop/ap/154234434"><img src="/assets/images/aphex-glass.jpg" alt="Aphex Glass (???)" width="400"/></a>
-</div>
+
+{% include feature_row %}

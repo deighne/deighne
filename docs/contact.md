@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Contact
 permalink: /contact/
 description: Here's how to get a hold of this guy.

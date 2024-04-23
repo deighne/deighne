@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "A Definitive List of Teds, Ranked."
 date: 2023-10-31 10:07:59 -0000
 categories: Musings

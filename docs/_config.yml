@@ -18,24 +18,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DEIGHNE.BLOG
+title: Dane Dickerson - Photography / Audio / Events in Central AR
 email: deighne@deighne.blog
-description: >- # this means to ignore newlines until "baseurl:"
-  Deighne.blog - Marketing, artwork, musings, posts, contact info.
+description: Dane Dickerson - Photography / Audio / Events in Central AR
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://deighne.blog" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: deighne
-github_username:  deighne
+repository: "deighne/deighne.github.io"
+# twitter_username: deighne
+# github_username:  deighne
 instagram_username: theperfectfruitmadrid
-author: deighne
+name: "Dane Dickerson"
 
 # Build settings
 # default theme
 # theme: minima
 # Active theme
-theme: minima
-minima:
-  date_format: "%b %-d %Y"
+# theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: neon # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# minima:
+#   date_format: "%b %-d %Y"
 
 plugins:
   - jekyll-feed
@@ -45,14 +48,7 @@ plugins:
 permalink: /:categories/:year/:month/:day/:title:output_ext
 layouts_dir: /_includes
 
-header_pages:
-  - bio.md
-  - photos.md
-  - design.md
-  - marketing.md
-  - musings.md
-  - posting.md
-  - contact.md
+masthead_title: "Dane Dickerson"
 
 excerpt_separator: <!--more-->
 

@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: single
 title: Musings
 permalink: /musings/
 description: Like posting, but with editing and more words. No cohesion.
 ---
 
-A place for longer-than-a-post writing.
+Weird, mostly.
 
 <ul class="post-list">
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Big Camera Good."
 date: 2023-11-13 23:59:59 -0000
 categories: Musings
