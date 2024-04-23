@@ -17,7 +17,14 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/theperfectfruitmadrid"
 header:
-  overlay_image: /assets/images/portfolio-highres/places-2-header.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/headerimage.jpg
+  actions:
+    - label: "Contact"
+      url: "mailto:deighne@deighne.blog"
+  # show_overlay_excerpt: true
+# excerpt: "Drag, Musicals, Events, Portraiture, Editorial, and More."
 ---
 
 I grew up in Salt Lake and moved to Central Arkansas in 2022.

@@ -6,7 +6,7 @@ date: 2024-04-22T00:00:00-00:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/portfolio-highres/places-2-header.jpg
+  overlay_image: /assets/images/headerimage.jpg
   actions:
     - label: "Booking Summer 2024"
       url: "mailto:deighne@deighne.blog?subject=I'm interested in booking a photo session or event."

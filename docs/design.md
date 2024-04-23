@@ -4,6 +4,15 @@ title: Design
 permalink: /design/
 class: wide
 description: Weird art, available for purchase and pleasure.
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/headerimage.jpg
+  actions:
+    - label: "I Want to Buy Something"
+      url: "mailto:deighne@deighne.blog?subject=Print or Merch Inquiry"
+  # show_overlay_excerpt: true
+excerpt: "Weird art, available for purchase and pleasure."
 # examples
 feature_row:
   - image_path: /assets/images/scarecrow.jpg
