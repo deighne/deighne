@@ -16,180 +16,99 @@ excerpt: "Drag, Musicals, Events, Portraits, Editorial, Audio"
 intro:
   - excerpt: "I specialize in performance and [event photography](#Events): musicals, drag, and dance, in particular. I also shoot [portraits](#Humans) (promotional, headshots, family, [not-humans](#Not-Humans)), [natural and unnatural places](#Places), and editorial."
 # drag photos
-feature_row:
-  - image_path: /assets/images/portfolio/events-1.jpg
-    # url: /assets/images/portfolio/events-1.jpg
-    # btn_label: "View Full Size"
-    # btn_class: "btn--inverse"
-  - image_path: /assets/images/portfolio/events-2.jpg
-    # url: /assets/images/portfolio/events-2.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/events-9.jpg
-    # url: /assets/images/portfolio/events-3.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-# theatre
-feature_row2:
-  - image_path: /assets/images/portfolio/events-8.jpg
-    # url: /assets/images/portfolio/events-8.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/humans-11.jpg
-    # url: /assets/images/portfolio/humans-11.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/events-7.jpg
-    # url: /assets/images/portfolio/events-7.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-# other events
-feature_row3:
-  - image_path: /assets/images/portfolio/events-4.jpg
-    # url: /assets/images/portfolio/events-4.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/events-6.jpg
-    # url: /assets/images/portfolio/events-6.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
+gallery:
+  - url: /assets/images/portfolio/events-1.jpg
+    image_path: /assets/images/portfolio/events-1.jpg
+  - url: /assets/images/portfolio/events-2.jpg
+    image_path: /assets/images/portfolio/events-2.jpg
+  - url: /assets/images/portfolio/events-9.jpg
+    image_path: /assets/images/portfolio/events-9.jpg
+# theatre and events
+gallery2:
+  - url: /assets/images/portfolio/events-8.jpg
+    image_path: /assets/images/portfolio/events-8.jpg
+  - url: /assets/images/portfolio/humans-11.jpg
+    image_path: /assets/images/portfolio/humans-11.jpg
+  - url: /assets/images/portfolio/events-7.jpg
+    image_path: /assets/images/portfolio/events-7.jpg
+  - url: /assets/images/portfolio/events-4.jpg
+    image_path: /assets/images/portfolio/events-4.jpg
+  - url: /assets/images/portfolio/dance-1.jpg
+    image_path: /assets/images/portfolio/dance-1.jpg
+  - url: /assets/images/portfolio/events-6.jpg
+    image_path: /assets/images/portfolio/events-6.jpg
 # portrait    
-feature_row4:
-  - image_path: /assets/images/portfolio/humans-4.jpg
-    # url: /assets/images/portfolio/humans-4.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/humans-8.jpg
-    # url: /assets/images/portfolio/humans-8.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/humans-3.jpg
-    # url: /assets/images/portfolio/humans-3.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-# Humans
-feature_row5:
-  - image_path: /assets/images/portfolio/humans-1.jpg
-    # url: /assets/images/portfolio/humans-1.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/humans-9.jpg
-    # url: /assets/images/portfolio/humans-9.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/humans-10.jpg
-    # url: /assets/images/portfolio/humans-10.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
+gallery4:
+  - url: /assets/images/portfolio/humans-4.jpg
+    image_path: /assets/images/portfolio/humans-4.jpg
+  - url: /assets/images/portfolio/events-3.jpg
+    image_path: /assets/images/portfolio/events-3.jpg
+  - url: /assets/images/portfolio/humans-3.jpg
+    image_path: /assets/images/portfolio/humans-3.jpg
+  - url: /assets/images/portfolio/humans-1.jpg
+    image_path: /assets/images/portfolio/humans-1.jpg
+  - url: /assets/images/portfolio/humans-9.jpg
+    image_path: /assets/images/portfolio/humans-9.jpg
+  - url: /assets/images/portfolio/humans-10.jpg
+    image_path: /assets/images/portfolio/humans-10.jpg
 # not humans
-# feature_row6:
-#   - image_path: /assets/images/portfolio/humans-5.jpg
-#     # url: /assets/images/portfolio/humans-5.jpg
-#     # btn_label: "View Full Size"
-#     # # btn_class: "btn--primary"
-feature_row7:
-  - image_path: /assets/images/portfolio/not-humans-3.jpg
-    # url: /assets/images/portfolio/not-humans-3.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/not-humans-1.jpg
-    # url: /assets/images/portfolio/not-humans-1.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/not-humans-4.jpg
-    # url: /assets/images/portfolio/not-humans-4.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-feature_row8:
-  - image_path: /assets/images/portfolio/not-humans-2.jpg
-    # url: /assets/images/portfolio/not-humans-2.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
+gallery6:
+  - url: /assets/images/portfolio/humans-5.jpg
+    image_path: /assets/images/portfolio/humans-5.jpg
+  - url: /assets/images/portfolio/not-humans-3.jpg
+    image_path: /assets/images/portfolio/not-humans-3.jpg
+  - url: /assets/images/portfolio/not-humans-1.jpg
+    image_path: /assets/images/portfolio/not-humans-1.jpg
+  # - url: /assets/images/portfolio/not-humans-4.jpg
+  #   image_path: /assets/images/portfolio/not-humans-4.jpg
+  # - url: /assets/images/portfolio/not-humans-2.jpg
+  #   image_path: /assets/images/portfolio/not-humans-2.jpg
 # places
-feature_row9:
-  - image_path: /assets/images/portfolio/places-7.jpg
-    # url: /assets/images/portfolio/places-7.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/places-2.jpg
-    # url: /assets/images/portfolio/places-2.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/places-4.jpg
-    # url: /assets/images/portfolio/places-4.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-feature_row10:
-  - image_path: /assets/images/portfolio/places-9.jpg
-    # url: /assets/images/portfolio/places-9.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/places-6.jpg
-    # url: /assets/images/portfolio/places-6.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/places-3.jpg
-    # url: /assets/images/portfolio/places-3.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-feature_row11:
-  - image_path: /assets/images/portfolio/places-8.jpg
-    # url: /assets/images/portfolio/places-8.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/places-5.jpg
-    # url: /assets/images/portfolio/places-5.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-feature_row12:
-  - image_path: /assets/images/portfolio/places-10.jpg
-    # url: /assets/images/portfolio/places-10.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio/places-1.jpg
-    # url: /assets/images/portfolio/places-1.jpg
-    # btn_label: "View Full Size"
-    # # btn_class: "btn--primary"
+gallery9:
+  - url: /assets/images/portfolio/places-7.jpg
+    image_path: /assets/images/portfolio/places-7.jpg
+  - url: /assets/images/portfolio/places-2.jpg
+    image_path: /assets/images/portfolio/places-2.jpg    
+  - url: /assets/images/portfolio/places-4.jpg
+    image_path: /assets/images/portfolio/places-4.jpg
+  - url: /assets/images/portfolio/places-9.jpg
+    image_path: /assets/images/portfolio/places-9.jpg
+  - url: /assets/images/portfolio/places-6.jpg
+    image_path: /assets/images/portfolio/places-6.jpg
+  - url: /assets/images/portfolio/places-3.jpg
+    image_path: /assets/images/portfolio/places-3.jpg
+  # - url: /assets/images/portfolio/places-8.jpg
+  #   image_path: /assets/images/portfolio/places-8.jpg
+  # - url: /assets/images/portfolio/places-10.jpg
+  #   image_path: /assets/images/portfolio/places-10.jpg
+  # - url: /assets/images/portfolio/places-1.jpg
+  #   image_path: /assets/images/portfolio/places-1.jpg
+  # - url: /assets/images/portfolio/places-5.jpg
+  #   image_path: /assets/images/portfolio/places-5.jpg
+    
 ---
-<!-- {% include feature_row id="intro" type="center" %} -->
+<!-- {% include gallery id="intro" type="center" %} -->
 
-I specialize in performance and [event photography](#events): [musicals](#theatre), [drag](#drag), and dance, to name a few. I also shoot [portraits](#portrait) (promotional, headshots, family, [not-humans](#not-humans)), [natural and unnatural places](#places), and editorial.
+I specialize in [performance and event photography](/theatre-event-photos/): [musicals](#theatre-and-events), [drag](/drag-photos/), and dance, to name a few. I also shoot [portraits](#portrait) (promotional, headshots, family, [not-humans](#not-humans)), [natural and unnatural places](#places), and editorial.
 
-## Drag
+## [Drag](/drag-photos/)
+{% include gallery%}
 
-{% include feature_row %}
-
-## Theatre
-
-{% include feature_row id="feature_row2"%}
-
-<!-- {% include feature_row id="feature_row3"%} -->
+## [Theatre and Events](/theatre-event-photos/)
+{% include gallery id="gallery2" %}
 
 ## Portrait
+{% include gallery id="gallery4"%}
 
-{% include feature_row id="feature_row4"%}
-
-## Humans
-
-{% include feature_row id="feature_row5"%}
-
-<!-- {% include feature_row id="feature_row6"%} -->
+<!-- {% include gallery id="gallery5"%} -->
 
 ## Not-Humans
-
-{% include feature_row id="feature_row7"%}
-
-<!-- {% include feature_row id="feature_row8"%} -->
+{% include gallery id="gallery6"%}
 
 ## Places
+{% include gallery id="gallery9"%}
 
-{% include feature_row id="feature_row9"%}
-
-{% include feature_row id="feature_row10"%}
-
-{% include feature_row id="feature_row11"%}
-
-<!-- {% include feature_row id="feature_row12"%} -->
+<!-- {% include gallery id="gallery12"%} -->
 
 For rates and availability for events or a session [email me](mailto:dane@dane.photos).
 
