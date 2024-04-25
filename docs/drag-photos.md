@@ -19,33 +19,47 @@ intro:
 gallery:
   - url: /assets/images/portfolio/events-1.jpg
     image_path: /assets/images/portfolio/events-1.jpg
+  - url: /assets/images/portfolio/drag-11.jpg
+    image_path: /assets/images/portfolio/drag-11.jpg
   - url: /assets/images/portfolio/events-2.jpg
     image_path: /assets/images/portfolio/events-2.jpg
-  - url: /assets/images/portfolio/events-9.jpg
-    image_path: /assets/images/portfolio/events-9.jpg
-  - url: /assets/images/portfolio/events-3.jpg
-    image_path: /assets/images/portfolio/events-3.jpg
-  - url: /assets/images/portfolio/humans-10.jpg
-    image_path: /assets/images/portfolio/humans-10.jpg
+  - url: /assets/images/portfolio/drag-13.jpg
+    image_path: /assets/images/portfolio/drag-13.jpg
   - url: /assets/images/portfolio/humans-4.jpg
     image_path: /assets/images/portfolio/humans-4.jpg
-  # - url: /assets/images/portfolio/humans-9.jpg
-  #   image_path: /assets/images/portfolio/humans-9.jpg
-  # - url: /assets/images/portfolio/drag-1.jpg
-  #   image_path: /assets/images/portfolio/drag-1.jpg
+  - url: /assets/images/portfolio/drag-15.jpg
+    image_path: /assets/images/portfolio/drag-15.jpg
   - url: /assets/images/portfolio/drag-2.jpg
     image_path: /assets/images/portfolio/drag-2.jpg
   - url: /assets/images/portfolio/drag-3.jpg
     image_path: /assets/images/portfolio/drag-3.jpg
   - url: /assets/images/portfolio/drag-4.jpg
     image_path: /assets/images/portfolio/drag-4.jpg
-  - url: /assets/images/portfolio/drag-5.jpg
-    image_path: /assets/images/portfolio/drag-5.jpg
+  - url: /assets/images/portfolio/drag-12.jpg
+    image_path: /assets/images/portfolio/drag-12.jpg
+  - url: /assets/images/portfolio/drag-8.jpg
+    image_path: /assets/images/portfolio/drag-8.jpg
   - url: /assets/images/portfolio/drag-6.jpg
     image_path: /assets/images/portfolio/drag-6.jpg
   - url: /assets/images/portfolio/drag-7.jpg
     image_path: /assets/images/portfolio/drag-7.jpg
-    
+  - url: /assets/images/portfolio/drag-9.jpg
+    image_path: /assets/images/portfolio/drag-9.jpg
+  - url: /assets/images/portfolio/drag-10.jpg
+    image_path: /assets/images/portfolio/drag-10.jpg
+  - url: /assets/images/portfolio/drag-5.jpg
+    image_path: /assets/images/portfolio/drag-5.jpg
+  - url: /assets/images/portfolio/events-3.jpg
+    image_path: /assets/images/portfolio/events-3.jpg
+  - url: /assets/images/portfolio/humans-10.jpg
+    image_path: /assets/images/portfolio/humans-10.jpg
+  - url: /assets/images/portfolio/drag-14.jpg
+    image_path: /assets/images/portfolio/drag-14.jpg
+  - url: /assets/images/portfolio/drag-16.jpg
+    image_path: /assets/images/portfolio/drag-16.jpg
+  - url: /assets/images/portfolio/events-9.jpg
+    image_path: /assets/images/portfolio/events-9.jpg
+
 ---
 [(←back to portfolio)](/photos/)
 
