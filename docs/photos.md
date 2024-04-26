@@ -59,10 +59,10 @@ gallery4:
     image_path: /assets/images/portfolio/humans-10.jpg
 # not humans
 gallery6:
-  - url: /assets/images/portfolio/not-humans-2.jpg
-    image_path: /assets/images/portfolio/not-humans-2.jpg
   - url: /assets/images/portfolio/not-humans-3.jpg
     image_path: /assets/images/portfolio/not-humans-3.jpg
+  - url: /assets/images/portfolio/not-humans-2.jpg
+    image_path: /assets/images/portfolio/not-humans-2.jpg
   - url: /assets/images/portfolio/not-humans-1.jpg
     image_path: /assets/images/portfolio/not-humans-1.jpg
   # - url: /assets/images/portfolio/not-humans-4.jpg
