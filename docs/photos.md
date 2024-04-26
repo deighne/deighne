@@ -17,8 +17,14 @@ intro:
   - excerpt: "I specialize in performance and [event photography](#Events): musicals, drag, and dance, in particular. I also shoot [portraits](#Humans) (promotional, headshots, family, [not-humans](#Not-Humans)), [natural and unnatural places](#Places), and editorial."
 # drag photos
 gallery:
+  - url: /assets/images/portfolio/drag-14.jpg
+    image_path: /assets/images/portfolio/drag-14.jpg
+  - url: /assets/images/portfolio/drag-11.jpg
+    image_path: /assets/images/portfolio/drag-11.jpg
   - url: /assets/images/portfolio/events-1.jpg
     image_path: /assets/images/portfolio/events-1.jpg
+  - url: /assets/images/portfolio/drag-3.jpg
+    image_path: /assets/images/portfolio/drag-3.jpg
   - url: /assets/images/portfolio/events-2.jpg
     image_path: /assets/images/portfolio/events-2.jpg
   - url: /assets/images/portfolio/events-9.jpg
@@ -47,14 +53,14 @@ gallery4:
     image_path: /assets/images/portfolio/humans-3.jpg
   - url: /assets/images/portfolio/humans-1.jpg
     image_path: /assets/images/portfolio/humans-1.jpg
-  - url: /assets/images/portfolio/humans-9.jpg
-    image_path: /assets/images/portfolio/humans-9.jpg
+  - url: /assets/images/portfolio/humans-13.jpg
+    image_path: /assets/images/portfolio/humans-13.jpg
   - url: /assets/images/portfolio/humans-10.jpg
     image_path: /assets/images/portfolio/humans-10.jpg
 # not humans
 gallery6:
-  - url: /assets/images/portfolio/humans-5.jpg
-    image_path: /assets/images/portfolio/humans-5.jpg
+  - url: /assets/images/portfolio/not-humans-2.jpg
+    image_path: /assets/images/portfolio/not-humans-2.jpg
   - url: /assets/images/portfolio/not-humans-3.jpg
     image_path: /assets/images/portfolio/not-humans-3.jpg
   - url: /assets/images/portfolio/not-humans-1.jpg
