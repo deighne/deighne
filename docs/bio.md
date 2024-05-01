@@ -25,6 +25,6 @@ header:
       url: "mailto:dane@dane.photos"
 ---
 
-I grew up in Salt Lake and moved to Central Arkansas in 2022.
+I grew up in Salt Lake and moved to Central Arkansas in 2022. My career includes adventures (and misadventures) in music, audio, photography, SEO, online advertising, and truly awful web development. Every time I bring up the AOL / Time Warner merger or rant about trademark law I put a nickel in a jar. Life currently is a mix of marketing, photography, live audio, and parent things.
 
-This site is hosted on Github and uses [Jekyll](https://github.com/jekyll).
+This site is hosted on Github and is built with [Jekyll](https://github.com/jekyll). 
