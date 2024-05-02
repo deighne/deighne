@@ -1,3 +1,3 @@
-# DEIGHNE.BLOG
+# DANE.PHOTOS
 
-This repo hosts the website [DEIGHNE.BLOG](DEIGHNE.BLOG). That's about it!
+This repo hosts the website [DANE.PHOTOS](DANE.PHOTOS). That's it.
