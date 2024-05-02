@@ -49,7 +49,7 @@ plugins:
 permalink: /:categories/:year/:month/:day/:title:output_ext
 layouts_dir: /_includes
 
-masthead_title: "Dane Dickerson"
+masthead_title: "Dane.Photos"
 
 excerpt_separator: <!--more-->
 
