@@ -38,14 +38,8 @@ The biggest factors in pricing are:
 
 * Session/event length
 * Number of delivered photos
-* Reproduction rights
+* Reproduction rights and licensing
 * Travel
-
-## What's the deal with reproduction rights and licensing?
-
-Part of the quote is reproduction rights and licensing; by default, reproduction and licensing rights reside with the photographer, meaning that prints of your photos can be ordered directly through me and I retain the right to share photos from our session in my portfolio and with prospective clients.
-
-Reproduction and licensing rights can be added up-front or after the shoot on a per-image basis. Some shoots require reproduction rights or more restrictive licensing.
 
 ## Where can you shoot photos? Do you travel?
 
