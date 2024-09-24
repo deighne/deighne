@@ -11,7 +11,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/headerimage.jpg
   actions:
-    - label: "Booking Summer 2024"
+    - label: "Booking Fall/Winter 2024"
       url: "mailto:dane@dane.photos?subject=I'm interested in booking a photo session or event."
   # show_overlay_excerpt: true
 excerpt: "Drag, Musicals, Events, Portraits, Editorial, Audio"

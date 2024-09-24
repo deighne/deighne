@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/headerimage.jpg
   actions:
-    - label: "Booking Summer 2024"
+    - label: "Booking Fall/Winter 2024"
       url: "mailto:dane@dane.photos?subject=I'm interested in booking a photo session or event."
   # show_overlay_excerpt: true
 excerpt: "Shows / Promos / Headshots"
@@ -35,8 +35,8 @@ gallery:
     image_path: /assets/images/portfolio/drag-3.jpg
   - url: /assets/images/portfolio/drag-4.jpg
     image_path: /assets/images/portfolio/drag-4.jpg
-  - url: /assets/images/portfolio/drag-12.jpg
-    image_path: /assets/images/portfolio/drag-12.jpg
+  - url: /assets/images/portfolio/drag-19.jpg
+    image_path: /assets/images/portfolio/drag-19.jpg
   - url: /assets/images/portfolio/drag-8.jpg
     image_path: /assets/images/portfolio/drag-8.jpg
   - url: /assets/images/portfolio/drag-6.jpg
@@ -45,8 +45,8 @@ gallery:
     image_path: /assets/images/portfolio/drag-7.jpg
   - url: /assets/images/portfolio/drag-9.jpg
     image_path: /assets/images/portfolio/drag-9.jpg
-  - url: /assets/images/portfolio/drag-10.jpg
-    image_path: /assets/images/portfolio/drag-10.jpg
+  - url: /assets/images/portfolio/drag-18.jpg
+    image_path: /assets/images/portfolio/drag-18.jpg
   - url: /assets/images/portfolio/drag-5.jpg
     image_path: /assets/images/portfolio/drag-5.jpg
   - url: /assets/images/portfolio/events-3.jpg
