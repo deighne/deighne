@@ -3,31 +3,6 @@
 search: false
 ---
 
-$serif              : "Poppins", Georgia, Times, serif;
-$sans-serif-narrow  : "Poppins", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-
-$global-font-family : $serif;
-$header-font-family : $sans-serif-narrow;
-
 @charset "utf-8";
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-
-.page__content h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 0px solid #434040;
-    margin: .5em 0 0.5em;
-    color: #f21368;
-}
-
-.feature__wrapper {
-    clear: both;
-    margin-bottom: 2em;
-    border-bottom: 0px solid #434040;
-}
-
-.page__footer {
-    background-color: black;
-}
