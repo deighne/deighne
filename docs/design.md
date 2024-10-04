@@ -19,10 +19,10 @@ feature_row:
     url: https://www.redbubble.com/shop/ap/154120648
     btn_label: "Loser Nazis"
     # btn_class: "btn--inverse"
-  # - image_path: /assets/images/context_2024.jpg
-  #   url: https://www.redbubble.com/shop/ap/163124805
-  #   btn_label: "Context 2024"
-  #   # btn_class: "btn--inverse"
+  - image_path: /assets/images/context_2024.jpg
+    url: https://www.redbubble.com/shop/ap/163124805
+    btn_label: "Context 2024"
+    # btn_class: "btn--inverse"
   - image_path: /assets/images/aphex-glass.jpg
     url: https://www.redbubble.com/shop/ap/154234434
     btn_label: "Aphex Glass"
