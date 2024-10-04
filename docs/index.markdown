@@ -18,6 +18,8 @@ header:
   # show_overlay_excerpt: true
 excerpt: "Drag, Musicals, Events, Portraits, Editorial, Audio"
 ---
+
+
 ## [Photography (View Portfolio)](/photos/)
 I specialize in performance and event photography: musicals, drag, and dance in particular. I also shoot portraits, promotional, headshots, family, not-humans, places (natural and unnatural), and editorial.
 
