@@ -21,25 +21,18 @@
 title: Dane Dickerson - Photography / Audio / Events in Central AR
 email: dane@dane.photos
 description: Dane Dickerson - Photography / Audio / Events in Central AR
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dane.photos" # the base hostname & protocol for your site, e.g. http://example.com
-repository: "deighne/deighne.github.io"
-# twitter_username: deighne
-# github_username:  deighne
+repository: "deighne/dane.photos"
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
 instagram_username: theperfectfruitmadrid
 name: "Dane Dickerson"
 
 # Build settings
-# default theme
 # theme: minima
-# Active theme
-# theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: neon # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-# minima:
-#   date_format: "%b %-d %Y"
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -48,7 +41,6 @@ plugins:
 
 permalink: /:categories/:year/:month/:day/:title:output_ext
 layouts_dir: /_includes
-
 masthead_title: "Dane.Photos"
 
 excerpt_separator: <!--more-->
