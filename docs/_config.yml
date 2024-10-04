@@ -23,7 +23,7 @@ email: dane@dane.photos
 description: Dane Dickerson - Photography / Audio / Events in Central AR
 url: "https://dane.photos" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "deighne/dane.photos"
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 instagram_username: theperfectfruitmadrid
